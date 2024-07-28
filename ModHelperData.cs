@@ -8,7 +8,7 @@ public static class ModHelperData
 
     public const string Description = "Rosalia gets buffed
 
-    public const string Icon = "pack1";
+    public const string Icon = "icon";
     public const string RepoOwner = "DatJaneDoe";
     public const string RepoName = "AwesomerRosalia;
     
